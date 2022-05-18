@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 
-URL = "https://www.instagram.com/"
+URL = "https://www.instagram.com/berennnyalcinnnn
 
-def verileri_al(kullanici_adi):
+def verileri_al(kullanici_adi):Berennnyalcinnnn
     son_url = URL + kullanici_adi
 
     request = Request(son_url, headers={'User-Agent':'Mozilla/5.0'})
